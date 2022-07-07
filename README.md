@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @00lems00
+- 👋 Hi, I’m @lems00
 - 👀 I’m interested in Electronic and Coding
 - 🌱 I’m currently learning Python
